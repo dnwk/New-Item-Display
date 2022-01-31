@@ -1,5 +1,5 @@
 # New-Item-Display
-This is a public version of New Item display used by Penrose Library.
+## This is a public version of New Item display used by Penrose Library.
 
 newlist_single_feed.php will provide a json feed of one random item. 
 
